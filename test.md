@@ -1,4 +1,3 @@
-TITLE HERE
 
 !!!card
 TEST
