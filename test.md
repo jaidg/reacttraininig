@@ -1,3 +1,11 @@
+```sps
+{
+  "component": "PageTitle",
+  "props": {
+      "heading": "Title"
+  }
+}
+```
 
 !!!card
 TEST
