@@ -10,16 +10,6 @@
 !!!card
 Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah
 
-```sps
-{
-  "component": "TipBlockWrapper",
-  "props": {
-      "preset": "tip",
-      "description": "Being able to save business rules and apply them to multiple trading partners will allow you to streamline and shorten implementation timelines"
-  }
-}
-```
-
 !!!card
 
 More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah
@@ -28,8 +18,8 @@ Monotonectally harness maintainable bandwidth for cross-unit niche markets. Dram
 
 Another Change. Hi.
 
-#### Submarine header
+#### Raw Code Example
 
-![Submarine](https://goo.gl/PS1pZJ "Sub")
+![CodeExample](https://drive.google.com/file/d/1dO3XdKiXhz0vxkArt1ZpUyU-NW78xse6/view?usp=sharing "Code")
 
 Enthusiastically scale just in time interfaces vis-a-vis user-centric synergy. Phosfluorescently engineer.
